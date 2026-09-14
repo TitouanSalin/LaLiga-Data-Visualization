@@ -1,6 +1,6 @@
 # La Liga Data Visualization
 
-**Interactive Data Visualization Project · École Polytechnique**
+**Interactive Data Visualization Project · École Polytechnique · Sep-Dec 2025**
 
 An interactive web dashboard for exploring **20 seasons of La Liga football data (2005/06–2024/25)** through coordinated visualizations built with **D3.js**.
 
